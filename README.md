@@ -1,6 +1,4 @@
-# Teste
-Jogo Da Velha
-
+# Jogo Da Velha
 # Descrição
 série do meu canal
 sobre a criação de um jogo
