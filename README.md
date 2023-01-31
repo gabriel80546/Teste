@@ -7,4 +7,7 @@ sobre a criação de um jogo
 estilo jogo da velha
 
 # video
-https://www.youtube.com/watch?v=YQl5mnD1MiY
+1: https://www.youtube.com/watch?v=KAHHwSENbZM
+2: https://www.youtube.com/watch?v=t4DPAbSbR9Q
+3: https://www.youtube.com/watch?v=YQl5mnD1MiY
+4: https://www.youtube.com/watch?v=WIWEDNrvZ28
